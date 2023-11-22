@@ -1,0 +1,23 @@
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\QAModul\ProgrammingAdvancedForQANovember2023\5.UnitTestingExercise-StringAndRegularExpressions\TestApp\obj\Debug\net6.0\ref\TestApp.dll
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\bin\Debug\net6.0\TestApp.deps.json
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\bin\Debug\net6.0\TestApp.dll
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\bin\Debug\net6.0\TestApp.pdb
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\TestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfoInputs.cache
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\TestApp.AssemblyInfo.cs
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\TestApp.csproj.CoreCompileInputs.cache
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\TestApp.sourcelink.json
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\TestApp.dll
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\refint\TestApp.dll
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\TestApp.pdb
+C:\GitHubRepositories\Programming Advanced for QA-Course\Unit Testing Exercise Strings and Regular Expressions\TestApp\obj\Debug\net6.0\ref\TestApp.dll
